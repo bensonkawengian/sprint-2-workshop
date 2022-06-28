@@ -1,1 +1,23 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Yellowtail', cursive;
+}
 
+h1{
+    font-size: 50pt;
+    margin-bottom: 300px;
+}
+
+p{
+    font-size: 30pt;
+}
+
+.red-text {
+  color:red;
+}
+
+#name {
+  font-size: 30pts;
+  color: blue;
+}
